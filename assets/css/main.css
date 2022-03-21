@@ -2706,9 +2706,9 @@ input, select, textarea {
 
 	#header {
 		background-attachment: scroll,							scroll,																																	fixed;
-		background-image: url("images/top-3200.svg"), url("https://64.media.tumblr.com/45e29782e7bd42d3a3863d1ecd83d419/428be104975de142-ad/s500x750/f02cfb4faa4031876ef965a5d41b0a9efd27f6c4.jpg"), url("../../images/header.jpg");
+		background-image: url("images/top-3200.svg"), url(https://w0.peakpx.com/wallpaper/330/943/HD-wallpaper-s10-blue-3-background-galaxy-gradient-infinity-purple.jpg"), url("../../images/header.jpg");
 		background-position: bottom center,					top left,				center center;
-		background-repeat: repeat-x,						repeat,					no-repeat;
+		background-repeat: no-repeat,						repeat,					no-repeat;
 		background-size: 3200px 460px,					auto,					cover;
 		color: rgba(255, 255, 255, 0.8);
 		padding: 10em 0 20em 0;
